@@ -1,4 +1,4 @@
-# 8 Puzzle Solver
+#8 Puzzle Solver
 Agents capable of solving an 8-puzzle with a specified start state for the board. 
 Agents consist of:
 Breadth first search
